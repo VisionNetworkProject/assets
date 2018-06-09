@@ -1,2 +1,2 @@
-# assets
-assets of vision.network
+# Assets
+Assets of vision.network
